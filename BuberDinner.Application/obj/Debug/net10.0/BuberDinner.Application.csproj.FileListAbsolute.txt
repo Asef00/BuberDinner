@@ -1,0 +1,15 @@
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Application.deps.json
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Application.dll
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Application.pdb
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.dll
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\refint\BuberDinner.Application.dll
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.pdb
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\ref\BuberDinner.Application.dll
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Domain.dll
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\bin\Debug\net10.0\BuberDinner.Domain.pdb
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\asefh\source\repos\practice\BuberDinner\BuberDinner.Application\obj\Debug\net10.0\BuberDin.E7CA8231.Up2Date

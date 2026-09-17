@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BuberDinner.Api/BuberDinner.Api.csproj" />
+  <Project Path="BuberDinner.Application/BuberDinner.Application.csproj" />
+  <Project Path="BuberDinner.Contracts/BuberDinner.Contracts.csproj" />
+  <Project Path="BuberDinner.Domain/BuberDinner.Domain.csproj" />
+  <Project Path="BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj" />
+</Solution>
